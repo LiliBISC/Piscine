@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587972054 source:c:\users\lilia\landingpage\piscine_theorie_graphe\src\sommet.cpp
+	"Sommet.h"
+
+1587973310 c:\users\lilia\landingpage\piscine_theorie_graphe\include\sommet.h
+
+1587972077 source:c:\users\lilia\landingpage\piscine_theorie_graphe\src\arete.cpp
+	"Arete.h"
+
+1587973337 c:\users\lilia\landingpage\piscine_theorie_graphe\include\arete.h
+	<Sommet.h>
+	<vector>
+
+1587972067 source:c:\users\lilia\landingpage\piscine_theorie_graphe\src\graphe.cpp
+	"Graphe.h"
+
+1587973361 c:\users\lilia\landingpage\piscine_theorie_graphe\include\graphe.h
+	<Sommet.h>
+	<Arete.h>
+	<vector>
+
